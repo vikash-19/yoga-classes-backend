@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9f1a4d1.css",
+    "main.js": "/static/js/main.3bd9c898.js",
+    "static/js/787.546f619e.chunk.js": "/static/js/787.546f619e.chunk.js",
+    "static/media/yoga-background.jpg": "/static/media/yoga-background.08d8525530312e5049e3.jpg",
+    "static/media/payNow.png": "/static/media/payNow.9d8b99fcfb4df8f0cd29.png",
+    "static/media/warningImage.png": "/static/media/warningImage.c0f8769c4cea07953b23.png",
+    "index.html": "/index.html",
+    "main.a9f1a4d1.css.map": "/static/css/main.a9f1a4d1.css.map",
+    "main.3bd9c898.js.map": "/static/js/main.3bd9c898.js.map",
+    "787.546f619e.chunk.js.map": "/static/js/787.546f619e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9f1a4d1.css",
+    "static/js/main.3bd9c898.js"
+  ]
+}
